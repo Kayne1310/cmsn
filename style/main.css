@@ -291,3 +291,19 @@ body {
     font-weight: lighter;
   }
 }
+
+
+@media screen and (max-width: 720px) {
+  .idea-5 span {
+    display: block;
+  }
+
+  .idea-6 span {
+    font-size: 3rem !important;
+  }
+  .baloons img {
+    display: inline-block;
+    position: absolute;
+    width: 250px !important;
+  }
+}
